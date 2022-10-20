@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/knowprabhjyot.github.io/static/css/main.98e6a1d2.chunk.css",
-    "main.js": "/knowprabhjyot.github.io/static/js/main.b6b72dff.chunk.js",
-    "main.js.map": "/knowprabhjyot.github.io/static/js/main.b6b72dff.chunk.js.map",
-    "runtime-main.js": "/knowprabhjyot.github.io/static/js/runtime-main.f49f9198.js",
-    "runtime-main.js.map": "/knowprabhjyot.github.io/static/js/runtime-main.f49f9198.js.map",
-    "static/js/2.d33cbee1.chunk.js": "/knowprabhjyot.github.io/static/js/2.d33cbee1.chunk.js",
-    "static/js/2.d33cbee1.chunk.js.map": "/knowprabhjyot.github.io/static/js/2.d33cbee1.chunk.js.map",
-    "index.html": "/knowprabhjyot.github.io/index.html",
-    "static/css/main.98e6a1d2.chunk.css.map": "/knowprabhjyot.github.io/static/css/main.98e6a1d2.chunk.css.map",
-    "static/js/2.d33cbee1.chunk.js.LICENSE.txt": "/knowprabhjyot.github.io/static/js/2.d33cbee1.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.98e6a1d2.chunk.css",
+    "main.js": "/static/js/main.b6b72dff.chunk.js",
+    "main.js.map": "/static/js/main.b6b72dff.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.39df0fe1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.39df0fe1.js.map",
+    "static/js/2.d33cbee1.chunk.js": "/static/js/2.d33cbee1.chunk.js",
+    "static/js/2.d33cbee1.chunk.js.map": "/static/js/2.d33cbee1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.98e6a1d2.chunk.css.map": "/static/css/main.98e6a1d2.chunk.css.map",
+    "static/js/2.d33cbee1.chunk.js.LICENSE.txt": "/static/js/2.d33cbee1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f49f9198.js",
+    "static/js/runtime-main.39df0fe1.js",
     "static/js/2.d33cbee1.chunk.js",
     "static/css/main.98e6a1d2.chunk.css",
     "static/js/main.b6b72dff.chunk.js"
