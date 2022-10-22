@@ -12,7 +12,7 @@ const SocialSection = () => {
         <a rel = "noopener noreferrer" href="https://www.facebook.com/prabhjotgambhir" target = "_blank">
             <FacebookIcon color="secondary" />
         </a>
-        <a rel = "noopener noreferrer" href="https://www.linkedin.com/in/prabhjyot-g-3832b5116/" target = "_blank">
+        <a rel = "noopener noreferrer" href="https://www.linkedin.com/in/prabhgambhir/" target = "_blank">
             <LinkedInIcon color="secondary" />
         </a>
         <a rel = "noopener noreferrer" href="https://www.instagram.com/prabhjyot_gambhir/" target = "_blank">

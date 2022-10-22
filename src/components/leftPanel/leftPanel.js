@@ -70,7 +70,7 @@ const LeftPanel = () => {
                         }}
                         variant="dot"
                     >
-                        <Avatar className={classes.media} alt="Prabhjyot Gambhir" src="../images/me.jpg" />
+                        <Avatar className={classes.media} alt="Prabhjyot Gambhir" src="../images/me.JPG" />
                     </StyledBadge>
                     <CardContent>
                         <Box display="grid" gridGap="16px">
@@ -99,7 +99,7 @@ const LeftPanel = () => {
                                         City:
                                     </Typography>
                                     <Typography variant="body2">
-                                        Delhi
+                                        Vancouver, BC
                                     </Typography>
                                     </Box>
                                     <Box display="flex" justifyContent="space-between">
@@ -107,16 +107,13 @@ const LeftPanel = () => {
                                         Age
                                     </Typography>
                                     <Typography variant="body2">
-                                        26
+                                        28
                                     </Typography>
                                     </Box>
                                     </Box>
                                 </Grid>
                             </div>
                             <Divider />
-                            <Box display="flex" justifyContent="space-around" >
-                                <LanguageSection />
-                            </Box>
                             <Divider />
                             <Box display="flex" flexDirection="column">
                                 <SkillSection />

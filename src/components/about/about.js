@@ -5,7 +5,7 @@ import Education from './education';
 
 
 const bannerConfig = {
-    title: 'All Good Stuff about me!',
+    title: 'Technology Enthusiast',
     image: '../images/banner2.jpg',
     image2: '../images/me2.png'
 }
@@ -41,9 +41,8 @@ const About = () => {
                     </Box>
                 </Box>
                 <Typography variant="subtitle2">
-                    Hey Folks my name is Prabhjyot Gambhir and I am a full stack developer. I am a full stack by choice not by profession, because I just love doing everything. I believe in Jack of all trades master of none.
-                    Because I don't need to be best at 1 and just wait for that skill set to rust, I want to explore, find possible options, survive and if i seek perfection then i leave behind experience. One thing which i find good About
-                    me is that if you give me a task, and I don't know how to do it, I will be honest and ask for more time to explore and learn. But that's what we do in real life right ?
+                    Hello my name is Prabhjyot Gambhir and I am a Software Engineer. I love developing full fledged web and mobile applications.
+                    One thing I have improved over time in me, is not giving up. If I want to achieve a milestone, and I don't know how to do it, I will be honest to myself and dedicate more time to explore and learn. But that's what we do in real life right ?
                     I may be blunt or straight forward, but I am loyal, if I chose you then I will be there for you 24 hours, because that's what I do.
                     Challenges excite me, staying idle frights me!
             </Typography>
