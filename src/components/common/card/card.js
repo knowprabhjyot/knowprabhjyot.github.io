@@ -10,14 +10,19 @@ import { ArrowForward } from "@material-ui/icons";
 import React from "react";
 import { Link } from "react-router-dom";
 
-const useStyles = makeStyles({
+const useStyles = makeStyles((theme) => ({
   box: {
     padding: 24,
   },
   link: {
     textDecoration: "none",
   },
-});
+  list: {
+    color: theme.palette.text.secondary,
+    fontFamily: 'Rubik',
+    fontSize: 14
+  }
+}));
 
 const Card = (props) => {
   const classes = useStyles();
@@ -42,6 +47,14 @@ const Card = (props) => {
           <Typography variant="body2">{props.subTitle}</Typography>
         ) : null}
         <Typography variant="body2">{props.data.description}</Typography>
+        <ul className={classes.list}>
+          {
+            props.data.list && props.data.list.map((item) => (
+              <li>{item}</li>
+            ))
+          }
+        </ul>
+    
       </Box>
       <Box display="flex" flexWrap="wrap">
         {props.data.tags &&
